@@ -1,0 +1,11 @@
+iframe{
+    height: 700px;
+    width: 1025px;
+}
+img{
+    height: 700px;
+    width: 1025px;
+}
+html {
+ scroll-behavior: smooth;
+}
